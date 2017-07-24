@@ -5,7 +5,7 @@
 
 	<groupId>org.springframework.social</groupId>
 	<artifactId>spring-social-facebook-extension-mobile</artifactId>
-	<version>0.0.1.RELEASE</version>
+	<version>0.0.2.RELEASE</version>
 	<packaging>jar</packaging>
 
 	<name>spring-social-facebook-extension</name>

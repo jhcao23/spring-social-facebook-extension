@@ -17,7 +17,7 @@ import org.springframework.social.connect.ConnectionFactoryLocator;
  *
  */
 @Configuration
-public class MobileSocialConfiguration extends SocialConfiguration {
+public class MobileSocialConfiguration {
 
 	@Autowired
 	private Environment environment;
