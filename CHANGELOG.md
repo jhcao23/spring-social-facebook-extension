@@ -1,1 +1,2 @@
+- 2.0.0-SNAPSHOT: Upgrade to boot 2.0.0
 - 0.0.3.RELEASE: update to boot 1.5.6
